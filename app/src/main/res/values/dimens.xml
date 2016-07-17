@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="spacing">8dp</dimen>
+    <dimen name="image_width">200dp</dimen>
+    <dimen name="outer_layout_margin">8dp</dimen>
+    <dimen name="text_heading_size">32sp</dimen>
+    <dimen name="text_normal_size">16sp</dimen>
+    <dimen name="text_subheading_size">24sp</dimen>
+</resources>
